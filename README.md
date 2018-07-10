@@ -5,7 +5,6 @@ Demo android : https://play.google.com/store/apps/details…
 Demo admin panel : http://demo.dream-space.web.id/markeet_panel/#/order
 user : user_markeet
 password : user
-Download : https://drive.google.com/open…
 
 Feature
 #ANDROID :
@@ -73,3 +72,5 @@ Material Drawer
 Beauty Cardview
 Dashboard Report
 Light and Clean Code
+
+FOLLOW MY INSTAGRAM : Assalafy23
